@@ -122,8 +122,8 @@ _Это перевод статьи «Document Outlines in HTML 5.1», напи�
 
     1. Creating a Document Outline in HTML 5.1  
         1. The Author
-        1. The Publication
-        1. Introduction
+        2. The Publication
+        3. Introduction
 
 
 [0]: https://bitsofco.de/using-heading-elements-to-create-a-document-outline/
